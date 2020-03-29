@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Dima/source/repos/FlappyBird/FlappyBird/Content/FlappyBird/sfx_wing.wav</SourceFile>
+  <SourceFile>C:/Users/Dima/Documents/GitHub/FlappyBird/FlappyBird/FlappyBird/Content/FlappyBird/sfx_wing.wav</SourceFile>
   <SourceTime>2020-03-29T22:23:40.2058754+10:00</SourceTime>
-  <DestFile>C:/Users/Dima/source/repos/FlappyBird/FlappyBird/Content/bin/Windows/Content/FlappyBird/sfx_wing.xnb</DestFile>
-  <DestTime>2020-03-29T22:24:55.1422165+10:00</DestTime>
+  <DestFile>C:/Users/Dima/Documents/GitHub/FlappyBird/FlappyBird/FlappyBird/Content/bin/Windows/Content/FlappyBird/sfx_wing.xnb</DestFile>
+  <DestTime>2020-03-29T22:31:56.6329058+10:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2018-12-09T02:35:54+10:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

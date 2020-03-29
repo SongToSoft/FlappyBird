@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Dima/source/repos/FlappyBird/FlappyBird/Content/Debug/frame.jpg</SourceFile>
+  <SourceFile>C:/Users/Dima/Documents/GitHub/FlappyBird/FlappyBird/FlappyBird/Content/Debug/frame.jpg</SourceFile>
   <SourceTime>2020-03-29T22:23:40.1961669+10:00</SourceTime>
-  <DestFile>C:/Users/Dima/source/repos/FlappyBird/FlappyBird/Content/bin/Windows/Content/Debug/frame.xnb</DestFile>
-  <DestTime>2020-03-29T22:24:54.3109329+10:00</DestTime>
+  <DestFile>C:/Users/Dima/Documents/GitHub/FlappyBird/FlappyBird/FlappyBird/Content/bin/Windows/Content/Debug/frame.xnb</DestFile>
+  <DestTime>2020-03-29T22:31:55.9387083+10:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-09T02:35:54+10:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
