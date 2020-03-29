@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6832CFFC-F9E2-44B9-A275-77FB3300B233}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FlappyBird</RootNamespace>
+    <AssemblyName>FlappyBird</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MonoGamePlatform>Windows</MonoGamePlatform>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="FlappyBirdProjectCode\Bird.cs" />
+    <Compile Include="FlappyBirdProjectCode\FlappyBirdCore.cs" />
+    <Compile Include="FlappyBirdProjectCode\FlappyBirdMainGameScene.cs" />
+    <Compile Include="FlappyBirdProjectCode\FlappyBirdProperties.cs" />
+    <Compile Include="FlappyBirdProjectCode\Ground.cs" />
+    <Compile Include="FlappyBirdProjectCode\Obstacle.cs" />
+    <Compile Include="FlappyBirdProjectCode\ObstacleManager.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SirenaSrc\Animations\SEAction.cs" />
+    <Compile Include="SirenaSrc\Animations\SEFlash.cs" />
+    <Compile Include="SirenaSrc\Animations\SESequentialChangeSprite.cs" />
+    <Compile Include="SirenaSrc\Components\SEActionComponent.cs" />
+    <Compile Include="SirenaSrc\Components\SEAudioSourceComponent.cs" />
+    <Compile Include="SirenaSrc\Components\SECircleColliderComponent.cs" />
+    <Compile Include="SirenaSrc\Components\SEComponent.cs" />
+    <Compile Include="SirenaSrc\Components\SEFontComponent.cs" />
+    <Compile Include="SirenaSrc\Components\SERectangleCollider.cs" />
+    <Compile Include="SirenaSrc\Components\SESpriteComponent.cs" />
+    <Compile Include="SirenaSrc\Components\SESubComponent.cs" />
+    <Compile Include="SirenaSrc\Components\SETransformComponent.cs" />
+    <Compile Include="SirenaSrc\InputManagers\SEKeyboardManager.cs" />
+    <Compile Include="SirenaSrc\InputManagers\SEMouseManager.cs" />
+    <Compile Include="SirenaSrc\Objects\SEObject.cs" />
+    <Compile Include="SirenaSrc\Objects\SEScene.cs" />
+    <Compile Include="SirenaSrc\SEEngineWindow.cs" />
+    <Compile Include="SirenaSrc\SEProperties.cs" />
+    <Compile Include="SirenaSrc\SEResourcesManager.cs" />
+    <Compile Include="SirenaSrc\Serialization\SerializationSystem.cs" />
+    <Compile Include="SirenaSrc\SESceneManager.cs" />
+    <Compile Include="SirenaSrc\UI\SEButton.cs" />
+    <Compile Include="SirenaSrc\UI\SELabel.cs" />
+    <Compile Include="SirenaSrc\UI\SEPanel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+    <None Include="app.manifest" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

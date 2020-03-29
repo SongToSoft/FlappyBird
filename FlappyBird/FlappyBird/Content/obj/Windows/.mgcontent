@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/ButtonText.spritefont</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/Debug/circle_red.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/Debug/debug.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/Debug/debug_2.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/Debug/frame.jpg</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/Debug/red_border.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/background-day.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/background-night.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/base.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/gameover.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/pipe-green.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/pipe-red.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/sfx_die.wav</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/sfx_hit.wav</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/sfx_point.wav</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/sfx_swooshing.wav</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/sfx_wing.wav</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/yellowbird-downflap.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/yellowbird-midflap.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/FlappyBird/yellowbird-upflap.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/PixelFont.spritefont</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/PixelFontText.spritefont</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_boxCheckmark.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_boxCross.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_boxTick.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button00.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button01.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button02.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button03.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button04.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button05.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button06.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button07.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button08.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button09.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button10.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button11.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button12.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_button13.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_checkmark.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_circle.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_cross.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_panel.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_sliderDown.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_sliderLeft.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_sliderRight.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_sliderUp.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/blue_tick.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/dropdownBottom.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/dropdownMid.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/dropdownTop.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_boxCheckmark.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_boxCross.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_boxTick.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button00.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button01.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button02.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button03.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button04.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button05.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button06.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button07.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button08.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button09.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button10.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button11.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button12.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_button13.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_checkmark.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_circle.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_cross.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_panel.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_sliderDown.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_sliderLeft.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_sliderRight.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_sliderUp.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/green_tick.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_arrowDownGrey.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_arrowDownWhite.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_arrowUpGrey.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_arrowUpWhite.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_box.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_boxCheckmark.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_boxCross.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_boxTick.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button00.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button01.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button02.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button03.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button04.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button05.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button06.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button07.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button08.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button09.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button10.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button11.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button12.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button13.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button14.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_button15.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_checkmarkGrey.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_checkmarkWhite.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_circle.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_crossGrey.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_crossWhite.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_panel.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_sliderDown.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_sliderEnd.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_sliderHorizontal.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_sliderLeft.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_sliderRight.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_sliderUp.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_sliderVertical.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_tickGrey.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/grey_tickWhite.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_boxCheckmark.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_boxCross.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_boxTick.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button00.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button01.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button02.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button03.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button04.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button05.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button06.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button07.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button08.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button09.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button10.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button11.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button12.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_button13.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_checkmark.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_circle.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_cross.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_panel.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_sliderDown.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_sliderLeft.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_sliderRight.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_sliderUp.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/red_tick.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_boxCheckmark.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_boxCross.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_boxTick.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button00.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button01.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button02.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button03.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button04.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button05.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button06.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button07.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button08.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button09.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button10.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button11.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button12.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_button13.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_checkmark.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_circle.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_cross.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_panel.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_sliderDown.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_sliderLeft.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_sliderRight.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_sliderUp.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/UI/PNG/yellow_tick.png</File>
+    <File>C:/Users/Dima/Documents/GitHub/SirenaEngineMG/SirenaEngineMG/SirenaEngineMG/Content/whiteSquare.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>PixelFontScore.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
