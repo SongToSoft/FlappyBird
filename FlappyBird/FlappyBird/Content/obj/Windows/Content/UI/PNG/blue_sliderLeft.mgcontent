@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Dima/Documents/GitHub/FlappyBird/FlappyBird/FlappyBird/Content/UI/PNG/blue_sliderLeft.png</SourceFile>
-  <SourceTime>2020-03-29T22:23:40.2158789+10:00</SourceTime>
-  <DestFile>C:/Users/Dima/Documents/GitHub/FlappyBird/FlappyBird/FlappyBird/Content/bin/Windows/Content/UI/PNG/blue_sliderLeft.xnb</DestFile>
-  <DestTime>2020-03-29T22:31:56.9087116+10:00</DestTime>
+  <SourceFile>C:/Users/Dima/Documents/GitHub/FlappyBird-src/FlappyBird/FlappyBird/Content/UI/PNG/blue_sliderLeft.png</SourceFile>
+  <SourceTime>2020-04-28T16:44:15.6037903+10:00</SourceTime>
+  <DestFile>C:/Users/Dima/Documents/GitHub/FlappyBird-src/FlappyBird/FlappyBird/Content/bin/Windows/Content/UI/PNG/blue_sliderLeft.xnb</DestFile>
+  <DestTime>2020-04-28T16:45:03.5832908+10:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-09T02:35:54+10:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

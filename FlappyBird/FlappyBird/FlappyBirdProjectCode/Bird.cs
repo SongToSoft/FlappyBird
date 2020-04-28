@@ -22,6 +22,7 @@ namespace SirenaEngineMG.FlappyBirdProjectCode
             isFalling = true;
             fallingSpeed = 5.0f;
             jumpSpeed = 7.0f;
+
             component.GetSpriteComponent().SetSprite(SEResourcesManager.GetSpriteByName("yellowbird-downflap"));
             component.GetTransformComponent().SetPosition(SEProperties.GetGameWindowWidth() / 4, SEProperties.GetGameWindowHeight() / 2);
             component.GetTransformComponent().SetSize(component.GetSpriteComponent().GetSpriteWidth(),
@@ -29,6 +30,7 @@ namespace SirenaEngineMG.FlappyBirdProjectCode
             component.GetTransformComponent().SetScale(scaleValue, scaleValue);
             component.GetTransformComponent().SetOriginRotatePosition(component.GetSpriteComponent().GetSpriteWidth() / 2, component.GetSpriteComponent().GetSpriteHeight() / 2);
             component.GetTransformComponent().SetSpeed(fallingSpeed);
+            component.GetSpriteComponent().SetLayerDepth(0.1f);
 
             SESequentialChangeSprite changeSpriteAnim = new SESequentialChangeSprite(0.1f);
             changeSpriteAnim.AddSprite(SEResourcesManager.GetSpriteByName("yellowbird-midflap"));
